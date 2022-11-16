@@ -8,8 +8,8 @@ Alright here's what you **need**
 |---|---|
 | Laser Cutter | Own one or find a service(like me) |
 | Drill | Nothing special a battery powered one will be good |
-| Tapping Bits | **M3** Size; Either [this](link-to-var1) or [this one](link-to-var2)
-| Countersink Bits | A set of [these](link-to-var3) would do just fine<br>**NOTE**: Use your own judgement when using these<br>aka. make sure it's the right size |
+| Tapping Bits | **M3** Size; Either [this](https://github.com/Infecta/iidx-controller/blob/main/build-guide/resources/tapping-var1.jpg) or [this one]([link-to-var2](https://github.com/Infecta/iidx-controller/blob/main/build-guide/resources/tapping-var-2.jpg))
+| Countersink Bits | A set of [these](https://github.com/Infecta/iidx-controller/blob/main/build-guide/resources/countersink.png) would do just fine<br>**NOTE**: Use your own judgement when using these<br>aka. make sure it's the right size |
 | A screwdriver | One with different bits will really help |
 | [Strap clamp](https://www.amazon.com/Bessey-VAS-23-2K-Vario-Angle/dp/B00NO6XHZC/ref=zg_bs_553168_sccl_1/141-0972143-9302916?psc=1) | For holding the case pieces together while you glue
 | Crimping tool | For the jumper wires |
