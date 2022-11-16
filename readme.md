@@ -6,6 +6,7 @@ Github Repo maintained by Infecta for building a FP7-ish sized IIDX/BMS controll
 ### Pre-requisites of Building
 1. Access to a laser cutter or Laser cutting service
 2. Patience
+
 *actual build guide with parts list linked [here](https://github.com/infecta/iidx-controller/some-link-pointing-to-buildguide)*
 
 ### Images of my build
