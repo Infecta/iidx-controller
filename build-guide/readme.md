@@ -5,7 +5,7 @@ Alright here's what you **need**
 # Tools
 
 | Tool Name | Notes |
-|---|---|---|
+|---|---|
 | Laser Cutter | Own one or find a service(like me) |
 | Drill | Nothing special a battery powered one will be good |
 | Tapping Bits | **M3** Size; Either [this](link-to-var1) or [this one](link-to-var2)
