@@ -18,3 +18,4 @@ Github Repo maintained by Infecta for building a FP7-ish sized IIDX/BMS controll
 - [LizardBeans]() for his TT design (Thanks)
 - [DJ DAO](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=244) For the rough measurements of the controller
 - [The Cons&Stuff Discord](https://discord.com/invite/fknwz8s) for their great work and resources
+- [Rhythm-Cons wiki](https://rhythm-cons.wiki/w/Main_Page)/Zoids for the useful resources on the wiki

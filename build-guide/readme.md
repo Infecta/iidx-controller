@@ -43,11 +43,19 @@ It's okay to have extra :p
 
 # Actually Building
 
+**NOTE: This only covers how to build and prep the case, please refer to other resources such as the [Cons&Stuff Discord](https://discord.com/invite/fknwz8s) for useful guides**
+
 If you view my CADs you will notice the case itself has different size joints.
 
-This is to make sure it only goes together in **one** way
+This is to ensure it only goes together in **one**, correct way
 I've had many mistakes where I accidentally glued together different pieces the wrong way.
 
 However It can also be inverted if you're a P2 gamer
 
-![]()
+## P1 Layout
+Standard Layout
+![](https://cdn.discordapp.com/attachments/832618563226304582/1043033475730657310/image.png)
+
+## P2 Layout
+Invert the pieces and you're good
+![](https://cdn.discordapp.com/attachments/832618563226304582/1043030898410520676/image.png)
