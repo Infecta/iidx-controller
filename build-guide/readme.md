@@ -54,8 +54,43 @@ However It can also be inverted if you're a P2 gamer
 
 ## P1 Layout
 Standard Layout
+
 ![](https://cdn.discordapp.com/attachments/832618563226304582/1043033475730657310/image.png)
 
 ## P2 Layout
 Invert the pieces and you're good
+
 ![](https://cdn.discordapp.com/attachments/832618563226304582/1043030898410520676/image.png)
+
+Now you've got your pieces all layed out, It's good practice to label them<br>(Label them which side is inside and outside; [Example](https://cdn.discordapp.com/attachments/832618563226304582/1043543022857633802/Labels.jpg))
+
+## Countersinking
+
+The goal of countersinking is to make the screw heads sit flush with the acrylic/wood pieces.
+
+Technically you could get away with not countersinking the holes (except for the TT). But it won't look nice imo.
+
+Here's the holes that should be countersunk(?) labeled green
+
+![](https://cdn.discordapp.com/attachments/832618563226304582/1043545538026549278/Countersink.jpg)
+
+**NOTES:**
+- Make sure the top piece (Long Piece *Bottom-Left in the picture* with the USB port hole is countersunk from the outside)
+
+## Tapping/ Making Threads
+
+These (Labeled in blue) should be tapped.
+
+![](https://cdn.discordapp.com/attachments/832618563226304582/1043547726035562576/image.png)
+
+# Gluing
+
+At this point, You should be able to figure out how it all goes together, Especially after being labeled.
+
+I won't go too much into detail other than to tell you to utilize the strap/belt clamp to hold the pieces together and applying the acrylic glue.
+
+Google is your best friend.
+
+You should be able to assemble it without ease from this point on.
+
+## Have fun and be a chad.
