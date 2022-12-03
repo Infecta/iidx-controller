@@ -93,4 +93,10 @@ Google is your best friend.
 
 You should be able to assemble it without ease from this point on.
 
+# Other Stuff
+
+## Code
+
+I recommend using [Gladuin's iidx-controller](https://github.com/Gladuin/iidx-controller) code because of the GUI configurator.
+
 ## Have fun and be a chad.
